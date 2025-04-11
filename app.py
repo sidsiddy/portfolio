@@ -4,7 +4,7 @@ from PIL import Image
 # ----------- SETTINGS -----------
 # PROFILE_PIC = "profile.jpg"  # Replace with your image filename
 NAME = "Siddharth Desai"
-DESCRIPTION = "Full Stack Developer | AI Enthusiast | Tech Blogger"
+DESCRIPTION = "Full Stack Developer | AI Enthusiast | Coder | Data Scientist"
 EMAIL = "siddharth.desai@bibs.co.in"
 
 SOCIAL_MEDIA = {
